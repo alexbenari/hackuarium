@@ -1,0 +1,12 @@
+locations - comments
+
+For the animated version:
+right:
+
+left:
+
+Static version:
+
+Letter specs: TNR font, 140 px
+H, R - 3 secs
+E - 1.2 sec
